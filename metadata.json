@@ -1,0 +1,7 @@
+{
+  "name": "Luxury Christmas Tree - Interactive Magic",
+  "description": "An interactive 3D Christmas tree experience with hand-tracking controls, photo uploads, and custom letter writing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
